@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d19aec2d.chunk.css",
+    "main.js": "/static/js/main.3e57051a.chunk.js",
+    "main.js.map": "/static/js/main.3e57051a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7c966f6f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7c966f6f.js.map",
+    "static/js/2.4ff6cd3e.chunk.js": "/static/js/2.4ff6cd3e.chunk.js",
+    "static/js/2.4ff6cd3e.chunk.js.map": "/static/js/2.4ff6cd3e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d19aec2d.chunk.css.map": "/static/css/main.d19aec2d.chunk.css.map",
+    "static/js/2.4ff6cd3e.chunk.js.LICENSE.txt": "/static/js/2.4ff6cd3e.chunk.js.LICENSE.txt",
+    "static/media/crowdfunding.bb9c757a.png": "/static/media/crowdfunding.bb9c757a.png",
+    "static/media/icons8-facebook.b5995cb6.svg": "/static/media/icons8-facebook.b5995cb6.svg",
+    "static/media/icons8-github.8974d21e.svg": "/static/media/icons8-github.8974d21e.svg",
+    "static/media/icons8-instagram.3fcaa1c2.svg": "/static/media/icons8-instagram.3fcaa1c2.svg",
+    "static/media/icons8-linkedin.4613029d.svg": "/static/media/icons8-linkedin.4613029d.svg",
+    "static/media/icons8-twitter.add39fcf.svg": "/static/media/icons8-twitter.add39fcf.svg",
+    "static/media/interactivepricing.fc9d10ef.png": "/static/media/interactivepricing.fc9d10ef.png",
+    "static/media/shortenlink.de0dce41.png": "/static/media/shortenlink.de0dce41.png",
+    "static/media/splitter.31ef0fd1.png": "/static/media/splitter.31ef0fd1.png",
+    "static/media/sunnyside.da08f345.png": "/static/media/sunnyside.da08f345.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c966f6f.js",
+    "static/js/2.4ff6cd3e.chunk.js",
+    "static/css/main.d19aec2d.chunk.css",
+    "static/js/main.3e57051a.chunk.js"
+  ]
+}
